@@ -1,4 +1,5 @@
 # SFTP File Manager
+[API Documentation](https://github.com/HolyShining/File-Manager/blob/master/API.md)
 
 How to run project:
 
